@@ -67,7 +67,7 @@ Payments
 API Endpoints
 | Method | Endpoint             | Description      |
 | ------ | -------------------- | ---------------- |
-| POST   | `/api/auth/register` | Register user    |
+| POST   | `/api/users/register` | Register user    |
 | POST   | `/api/auth/login`    | Login user       |
 | GET    | `/api/products`      | Get all products |
 | POST   | `/api/cart/add`      | Add to cart      |
